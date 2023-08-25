@@ -11,3 +11,5 @@ Add other line
 Estamos haciendo modificaciones, creando una nueva rama y probando commitear
 
 Escribimos lineas de codigo para probar git pull y git push
+
+Probamos modificando el repositorio local
