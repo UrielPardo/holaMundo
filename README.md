@@ -9,9 +9,3 @@ I hate sleep to much, but it's hard wake up early if is cool in the morning.
 Add other line
 
 Estamos haciendo modificaciones, creando una nueva rama y probando commitear
-
-Realizamos otro cambio para probar GIT PULL
-
-Agrego un cambio para probar GIT PUSH
-
-Estamos practicando en grupo git y push
